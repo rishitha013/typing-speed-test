@@ -1,0 +1,5 @@
+Chars: 152, Words: 29, WPM: 29.00, Accuracy: 67.92%
+Difficulty: Hard | Chars: 0, Words: 0, WPM: 0.00, Accuracy: 0.00%
+Difficulty: Easy | Chars: 81, Words: 10, WPM: 16.22, Accuracy: 98.16%
+Difficulty: Easy | Chars: 81, Words: 10, WPM: 10.00, Accuracy: 98.16%
+Difficulty: Hard | Chars: 149, Words: 19, WPM: 19.00, Accuracy: 91.72%
